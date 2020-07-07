@@ -29,4 +29,3 @@ Web API REST para o gerenciamento de patrimônios de uma empresa.
 - Servidor de aplicação Tomcat embutido ao Spring Web
 - Postman, versão 7.27.1, para testar a API
 - IDE de desenvolvimento Spring Tool Suite 4
-### Como executar o projeto
